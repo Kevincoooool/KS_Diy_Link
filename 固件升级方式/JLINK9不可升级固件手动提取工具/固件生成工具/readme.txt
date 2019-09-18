@@ -1,0 +1,1 @@
+复制最新的JLinkARM.dll到这个目录，然后运行makev9fw.exe，完成之后J-Link V9 ALL.bin就是最新的固件了，这个固件需要写入mcu的0x08000000地址
