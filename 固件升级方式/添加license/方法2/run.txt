@@ -1,0 +1,8 @@
+
+
+Exec AddFeature RDI
+Exec AddFeature FlashBP
+Exec AddFeature FlashDL
+Exec AddFeature JFlash
+Exec AddFeature GDB
+
