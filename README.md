@@ -4,7 +4,7 @@
  * @Author       : Kevincoooool
  * @Date         : 2020-07-03 19:31:16
  * @LastEditors  : Kevincoooool
- * @LastEditTime : 2021-02-02 09:10:25
+ * @LastEditTime : 2021-02-02 09:12:28
  * @FilePath     : \Github\MCU_Link_Diy\README.md
 -->
 # Jlink_DIY
@@ -27,6 +27,6 @@
 # Pic:<br> 
 <img src="https://github.com/Kevincoooool/KS_Diy_Link/blob/master/pic/link_1.jpg" height="600px" width="804px" title="反面" style="display:inherit;"/> <br> 
 <img src="https://github.com/Kevincoooool/KS_Diy_Link/blob/master/pic/link_2.jpg" height="600px" width="804px" title="正面" style="display:inherit;"/> <br> 
-<img src="https://github.com/Kevincoooool/KS_Diy_Link/blob/master/pic/link_3.png" height="600px" width="804px" title="PCB" style="display:inherit;"/> <br>
+<img src="https://github.com/Kevincoooool/KS_Diy_Link/blob/master/pic/link_3.jpg" height="600px" width="804px" title="PCB" style="display:inherit;"/> <br>
 
 > 另外强调一下，本仓库的项目是**GPL协议**，不支持任何形式的私自产品化（当然大家自己DIY是没有任何问题的，这里只是防止有人借我的名义坑大家）
