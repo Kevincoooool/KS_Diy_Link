@@ -1,16 +1,8 @@
-<!--
- * @Descripttion : 
- * @version      : 
- * @Author       : Kevincoooool
- * @Date         : 2020-07-03 19:31:16
- * @LastEditors  : Kevincoooool
- * @LastEditTime : 2021-02-02 09:12:28
- * @FilePath     : \Github\MCU_Link_Diy\README.md
--->
+
 # Jlink_DIY
  * 个人DIY JLINK V9  高速SWD速度可达12000kHz
 成品TB Link:[迷你JLink V9](https://item.taobao.com/item.htm?spm=a1z09.8149145.0.0.44cb53cdwAegGF&id=604502683248&_u=6kjj8627ebc)
-
+* 推荐高速DAPLink&脱机烧录器：[高速DAP](https://item.taobao.com/item.htm?spm=a230r.1.14.40.7f906f07LiXFzK&id=610773587113)
 *  串口波特率最高只支持**230400**
 * DFU下载固件时需要将BOOT0短接3.3V同时RX引脚短接GND即可进入DFU模式
 * 也可以用SWD接口直接把bootloader下载进去然后打开jlink commander 即可自动升级固件
